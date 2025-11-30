@@ -109,7 +109,6 @@
       "required": [
         "tin",
         "billing_class",
-        "setting",
         "payments"
       ],
       "if": {
